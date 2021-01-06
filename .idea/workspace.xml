@@ -22,7 +22,21 @@
     <list default="true" id="23956bf1-3c35-48f9-a84b-c431ddde0283" name="Default Changelist" comment="app init">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid/block/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid/block/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid/block/styles/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid/block/styles/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid/styles/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid/styles/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/card/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/card/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/title/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/title/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/service-worker/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/service-worker/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/setupTests.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/global.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/typings/theme.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/typings/theme.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +81,8 @@
       <workItem from="1609879257420" duration="32000" />
       <workItem from="1609879851236" duration="146000" />
       <workItem from="1609960175218" duration="177000" />
+      <workItem from="1609964982892" duration="2000" />
+      <workItem from="1609965061896" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="app init">
       <created>1609794707472</created>
