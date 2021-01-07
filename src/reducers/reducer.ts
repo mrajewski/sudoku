@@ -1,9 +1,18 @@
+import { createFullGrid } from 'utils'
 import { AnyAction } from 'redux'
 
-const initialState = {}
+import { IReducer } from './interface'
+import * as types from './types'
+
+const initialState: IReducer = {}
 
 function reducer(state = initialState, action: AnyAction) {
   switch (action.type) {
+    case types.CREATE_GRID:
+      return {
+        ...state,
+        grid: createFullGrid(),
+      }
     default:
       return state
   }
